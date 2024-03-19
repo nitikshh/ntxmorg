@@ -1,10 +1,22 @@
 {
     "Android Development": [
         "techxcelerate\\Learn\\AndroidDev\\AndroidDev_1.html",
-        "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html"
+        {
+            "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_1.html",
+            "title": "Introduction to Android"
+        },
+        "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html",
+        {
+            "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html",
+            "title": "Introduction to UI Design"
+        }
     ],
     "Flask Advanced": [
-        "techxcelerate\\Learn\\Flask\\Flask_Page_1.html"
+        "techxcelerate\\Learn\\Flask\\Flask_Page_1.html",
+        {
+            "path": "techxcelerate\\Learn\\Flask\\Flask_Page_1.html",
+            "title": "Introduction to Flask"
+        }
     ],
     "StarterTemplate": [],
     "Other": []
