@@ -1,9 +1,9 @@
 {
-    "Android": [
+    "Android Development": [
         "techxcelerate\\Learn\\AndroidDev\\AndroidDev_1.html",
         "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html"
     ],
-    "Flask": [
+    "Flask Advanced": [
         "techxcelerate\\Learn\\Flask\\Flask_Page_1.html"
     ],
     "StarterTemplate": [],
