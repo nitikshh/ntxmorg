@@ -18,6 +18,20 @@
             "title": "Introduction to Flask"
         }
     ],
+    "Web Development": [
+        "techxcelerate\\Learn\\WebDevelopment\\WebDevelopment_Page_1.html",
+        {
+            "path": "techxcelerate\\Learn\\WebDevelopment\\WebDevelopment_Page_1.html",
+            "title": "Introduction to Web Development"
+        }
+    ],
+    "Node JS": [
+        "techxcelerate\\Learn\\NodeJS\\NodeJS_Page_1.html",
+        {
+            "path": "techxcelerate\\Learn\\NodeJS\\NodeJS_Page_1.html",
+            "title": "Introduction to NodeJS"
+        }
+    ],
     "StarterTemplate": [],
     "Other": []
 }
