@@ -32,6 +32,13 @@
             "title": "Introduction to NodeJS"
         }
     ],
+    "Python": [
+        "techxcelerate\\Learn\\Python\\Python_Page_1.html",
+        {
+            "path": "techxcelerate\\Learn\\Python\\Python_Page_1.html",
+            "title": "Introduction to Python"
+        }
+    ],
     "StarterTemplate": [],
     "Other": []
 }
