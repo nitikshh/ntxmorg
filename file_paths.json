@@ -30,6 +30,11 @@
         {
             "path": "techxcelerate\\Learn\\NodeJS\\NodeJS_Page_1.html",
             "title": "Introduction to NodeJS"
+        },
+        "techxcelerate\\Learn\\NodeJS\\NodeJS_Page_2.html",
+        {
+            "path": "techxcelerate\\Learn\\NodeJS\\NodeJS_Page_2.html",
+            "title": "NodeJS Basics"
         }
     ],
     "Python": [
