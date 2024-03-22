@@ -1,0 +1,620 @@
+[
+    {
+        "videoId": "ER9SspLe4Hg",
+        "title": "Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ER9SspLe4Hg/sddefault.jpg"
+    },
+    {
+        "videoId": "Q4p8vRQX8uY",
+        "title": "Variables in JavaScript | JavaScript Tutorial in Hindi #2",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Q4p8vRQX8uY/sddefault.jpg"
+    },
+    {
+        "videoId": "Icev9Oxf0WA",
+        "title": "const, let and var in JavaScript | JavaScript Tutorial in Hindi #3",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Icev9Oxf0WA/sddefault.jpg"
+    },
+    {
+        "videoId": "qpU3WIqRz9I",
+        "title": "Primitives and Objects in JavaScript | JavaScript Tutorial in Hindi #4",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qpU3WIqRz9I/sddefault.jpg"
+    },
+    {
+        "videoId": "vA-AAeqkpxM",
+        "title": "JavaScript  Chapter 1 - Practice Set | JavaScript Tutorial in Hindi #5",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vA-AAeqkpxM/sddefault.jpg"
+    },
+    {
+        "videoId": "lsV8JQgSW1s",
+        "title": "JavaScript Operators and Expressions | JavaScript Tutorial in Hindi #6",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lsV8JQgSW1s/sddefault.jpg"
+    },
+    {
+        "videoId": "s5Lu4QTjeL0",
+        "title": "Conditional expressions in JavaScript | JavaScript Tutorial in Hindi #7",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s5Lu4QTjeL0/sddefault.jpg"
+    },
+    {
+        "videoId": "W77qmqrhCcA",
+        "title": "JavaScript Chapter 2 - Practice Set on Operators and Conditionals | JavaScript Tutorial in Hindi #8",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W77qmqrhCcA/sddefault.jpg"
+    },
+    {
+        "videoId": "XKyyM1VWtUE",
+        "title": "For Loops in JavaScript | JavaScript Tutorial in Hindi #9",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XKyyM1VWtUE/sddefault.jpg"
+    },
+    {
+        "videoId": "drEjyBSu33w",
+        "title": "While Loops in JavaScript | JavaScript Tutorial in Hindi #10",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/drEjyBSu33w/sddefault.jpg"
+    },
+    {
+        "videoId": "a_gwOwkbhZ0",
+        "title": "Functions in JavaScript | JavaScript Tutorial in Hindi #11",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/a_gwOwkbhZ0/sddefault.jpg"
+    },
+    {
+        "videoId": "ZAOipfPnb3s",
+        "title": "JavaScript Chapter 3 - Practice Set on Loops and Functions | JavaScript Tutorial in Hindi #12",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZAOipfPnb3s/sddefault.jpg"
+    },
+    {
+        "videoId": "Yafji9PB1lM",
+        "title": "Introduction to Strings | JavaScript Tutorial in Hindi #13",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Yafji9PB1lM/sddefault.jpg"
+    },
+    {
+        "videoId": "8yg4RUEnaIk",
+        "title": "JavaScript String Methods | JavaScript Tutorial in Hindi #14",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8yg4RUEnaIk/sddefault.jpg"
+    },
+    {
+        "videoId": "Wj3wGP1g5z8",
+        "title": "JavaScript Chapter 4 - Practice Set on Strings | JavaScript Tutorial in Hindi #15",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Wj3wGP1g5z8/sddefault.jpg"
+    },
+    {
+        "videoId": "a_Bz5ciBHQ0",
+        "title": "Introduction to Arrays | JavaScript Tutorial in Hindi #16",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/a_Bz5ciBHQ0/sddefault.jpg"
+    },
+    {
+        "videoId": "BLIrBThPTXc",
+        "title": "JavaScript Array Methods | JavaScript Tutorial in Hindi #17",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BLIrBThPTXc/sddefault.jpg"
+    },
+    {
+        "videoId": "QxA-KB2lKgk",
+        "title": "Some More JavaScript Array Methods | JavaScript Tutorial in Hindi #18",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QxA-KB2lKgk/sddefault.jpg"
+    },
+    {
+        "videoId": "YWyr7Nug2oc",
+        "title": "Using Loops With Arrays in JavaScript | JavaScript Tutorial in Hindi #19",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YWyr7Nug2oc/sddefault.jpg"
+    },
+    {
+        "videoId": "bAUMuuRH99o",
+        "title": "Map, Filter & Reduce in JavaScript | JavaScript Tutorial in Hindi #20",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bAUMuuRH99o/sddefault.jpg"
+    },
+    {
+        "videoId": "Yeic3j6uli0",
+        "title": "JavaScript Chapter 5 - Practice Set on Arrays | JavaScript Tutorial in Hindi #21",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Yeic3j6uli0/sddefault.jpg"
+    },
+    {
+        "videoId": "DmjyrPwPg2g",
+        "title": "Exercise 1 - Guess the Number | JavaScript Tutorial in Hindi #22",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DmjyrPwPg2g/sddefault.jpg"
+    },
+    {
+        "videoId": "ImFeTcWCsR0",
+        "title": "JavaScript in the Browser | JavaScript Tutorial in Hindi #23",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ImFeTcWCsR0/sddefault.jpg"
+    },
+    {
+        "videoId": "hS2vw0qVt0c",
+        "title": "JavaScript Script Tag | JavaScript Tutorial in Hindi #24",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hS2vw0qVt0c/sddefault.jpg"
+    },
+    {
+        "videoId": "1WNtGvrLisg",
+        "title": "JavaScript Console Object | JavaScript Tutorial in Hindi #25",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1WNtGvrLisg/sddefault.jpg"
+    },
+    {
+        "videoId": "Fc1g7CL4nwI",
+        "title": "JavaScript Exercise 1: Solution & Shoutouts | JavaScript Tutorial in Hindi #26",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Fc1g7CL4nwI/sddefault.jpg"
+    },
+    {
+        "videoId": "540NIdeKW3I",
+        "title": "JavaScript alert, prompt & confirm | JavaScript Tutorial in Hindi #27",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/540NIdeKW3I/sddefault.jpg"
+    },
+    {
+        "videoId": "xOCzjgjedRc",
+        "title": "DOM, BOM & Window Object | JavaScript Tutorial in Hindi #28",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xOCzjgjedRc/sddefault.jpg"
+    },
+    {
+        "videoId": "HzWhsTl10mw",
+        "title": "JavaScript Chapter 6 - Practice Set | JavaScript Tutorial in Hindi #29",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HzWhsTl10mw/sddefault.jpg"
+    },
+    {
+        "videoId": "EsDLdN7V6mw",
+        "title": "Exercise 2 - Snake, Water and Gun| JavaScript Tutorial in Hindi #30",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EsDLdN7V6mw/sddefault.jpg"
+    },
+    {
+        "videoId": "Rhj6KWFw7AA",
+        "title": "Walking the DOM | JavaScript Tutorial in Hindi #31",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Rhj6KWFw7AA/sddefault.jpg"
+    },
+    {
+        "videoId": "BadZyp7tztw",
+        "title": "Accessing Children of an Element | JavaScript Tutorial in Hindi #32",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BadZyp7tztw/sddefault.jpg"
+    },
+    {
+        "videoId": "IMLRMFgrcig",
+        "title": "Parents & Siblings of an Element | JavaScript Tutorial in Hindi #33",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IMLRMFgrcig/sddefault.jpg"
+    },
+    {
+        "videoId": "78VMefnkMcM",
+        "title": "Element only Navigation | JavaScript Tutorial in Hindi #34",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/78VMefnkMcM/sddefault.jpg"
+    },
+    {
+        "videoId": "4e5L4i-mmxg",
+        "title": "Table Navigation | JavaScript Tutorial in Hindi #35",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4e5L4i-mmxg/sddefault.jpg"
+    },
+    {
+        "videoId": "oY036JqESt0",
+        "title": "Searching the DOM | JavaScript Tutorial in Hindi #36",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oY036JqESt0/sddefault.jpg"
+    },
+    {
+        "videoId": "CMeeHa7XW3s",
+        "title": "matches, closest and contains | JavaScript Tutorial in Hindi #37",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CMeeHa7XW3s/sddefault.jpg"
+    },
+    {
+        "videoId": "i5bX5qNOSoo",
+        "title": "JavaScript Chapter 7 - Practice Set | JavaScript Tutorial in Hindi #38",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/i5bX5qNOSoo/sddefault.jpg"
+    },
+    {
+        "videoId": "FZ-RyUQCjUY",
+        "title": "JavaScript Exercise 2: Solution & Shoutouts | JavaScript Tutorial in Hindi #39",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FZ-RyUQCjUY/sddefault.jpg"
+    },
+    {
+        "videoId": "-AseOcQPHmo",
+        "title": "Exercise 3 - Tell me a Joke | JavaScript Tutorial in Hindi #40",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-AseOcQPHmo/sddefault.jpg"
+    },
+    {
+        "videoId": "M8AUk6gDe2c",
+        "title": "innerHTML, outerHTML and other properties | JavaScript Tutorial in Hindi #41",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M8AUk6gDe2c/sddefault.jpg"
+    },
+    {
+        "videoId": "viUbOtj2o_4",
+        "title": "HTML Attributes and their methods | JavaScript Tutorial in Hindi #42",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/viUbOtj2o_4/sddefault.jpg"
+    },
+    {
+        "videoId": "wyAZuYatCOI",
+        "title": "HTML Insertion Methods | JavaScript Tutorial in Hindi #43",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wyAZuYatCOI/sddefault.jpg"
+    },
+    {
+        "videoId": "zFU2kQJZO5k",
+        "title": "insertAdjacentHTML, insertAdjacentElement and insertAdjacentText  | JavaScript Tutorial in Hindi #44",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zFU2kQJZO5k/sddefault.jpg"
+    },
+    {
+        "videoId": "_YQyVnPI_Og",
+        "title": "Changing HTML Classes using JavaScript: className and classList | JavaScript Tutorial in Hindi #45",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_YQyVnPI_Og/sddefault.jpg"
+    },
+    {
+        "videoId": "Ruq4sEw9h_8",
+        "title": "setInterval and setTimeout in JavaScript | JavaScript Tutorial in Hindi #46",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Ruq4sEw9h_8/sddefault.jpg"
+    },
+    {
+        "videoId": "Y3f_ih-2jGk",
+        "title": "Introduction to Browser Events | JavaScript Tutorial in Hindi #47",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Y3f_ih-2jGk/sddefault.jpg"
+    },
+    {
+        "videoId": "rFq0HVOdDo4",
+        "title": "Handling Browser Events | JavaScript Tutorial in Hindi #48",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rFq0HVOdDo4/sddefault.jpg"
+    },
+    {
+        "videoId": "-6rvoQi2YtI",
+        "title": "JavaScript Chapter 8 - Practice Set | JavaScript Tutorial in Hindi #49",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-6rvoQi2YtI/sddefault.jpg"
+    },
+    {
+        "videoId": "6-6DLlIx4mE",
+        "title": "Exercise 3: Solution & Shoutouts | JavaScript Tutorial in Hindi #50",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6-6DLlIx4mE/sddefault.jpg"
+    },
+    {
+        "videoId": "aEc6AUFkCo8",
+        "title": "Exercise 4: Clock using JavaScript | JavaScript Tutorial in Hindi #51",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aEc6AUFkCo8/sddefault.jpg"
+    },
+    {
+        "videoId": "IJlGpI6l92U",
+        "title": "Introduction to Callbacks | JavaScript Tutorial in Hindi #52",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IJlGpI6l92U/sddefault.jpg"
+    },
+    {
+        "videoId": "fIPJUteOdLc",
+        "title": "Callback Hell & Pyramid of Doom | JavaScript Tutorial in Hindi #53",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fIPJUteOdLc/sddefault.jpg"
+    },
+    {
+        "videoId": "Dadlf6YsTHA",
+        "title": "Introduction to Promises | JavaScript Tutorial in Hindi #54",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Dadlf6YsTHA/sddefault.jpg"
+    },
+    {
+        "videoId": "Fsv4IEH-4Lw",
+        "title": "Promise .then() and .catch() | JavaScript Tutorial in Hindi #55",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Fsv4IEH-4Lw/sddefault.jpg"
+    },
+    {
+        "videoId": "RPLt3TiH6zg",
+        "title": "Promise Chaining .then() calls | JavaScript Tutorial in Hindi #56",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RPLt3TiH6zg/sddefault.jpg"
+    },
+    {
+        "videoId": "fttMS3hFzEg",
+        "title": "Attaching Multiple Handlers to a Promise | JavaScript Tutorial in Hindi #57",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fttMS3hFzEg/sddefault.jpg"
+    },
+    {
+        "videoId": "xJQemfYXEf8",
+        "title": "The Promise API | JavaScript Tutorial in Hindi #58",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xJQemfYXEf8/sddefault.jpg"
+    },
+    {
+        "videoId": "bLre6Uf4Op0",
+        "title": "Async/Await in JavaScript | JavaScript Tutorial in Hindi #59",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bLre6Uf4Op0/sddefault.jpg"
+    },
+    {
+        "videoId": "WRNBQCl_cPU",
+        "title": "Error Handling: try and catch | JavaScript Tutorial in Hindi #60",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WRNBQCl_cPU/sddefault.jpg"
+    },
+    {
+        "videoId": "uOQBGKfldIg",
+        "title": "The Error Object & Custom Errors | JavaScript Tutorial in Hindi #61",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uOQBGKfldIg/sddefault.jpg"
+    },
+    {
+        "videoId": "rWCGC2NWjcc",
+        "title": "The Finally Clause | JavaScript Tutorial in Hindi #62",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rWCGC2NWjcc/sddefault.jpg"
+    },
+    {
+        "videoId": "y1j2FL9d31w",
+        "title": "JavaScript Chapter 9 - Practice Set  | JavaScript Tutorial in Hindi #63",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y1j2FL9d31w/sddefault.jpg"
+    },
+    {
+        "videoId": "iVodxHfAqd0",
+        "title": "Exercise 4: Solutions & Shoutouts | JavaScript Tutorial in Hindi #64",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iVodxHfAqd0/sddefault.jpg"
+    },
+    {
+        "videoId": "Ag4MDWEWHR8",
+        "title": "Exercise 5: Hackerman | JavaScript Tutorial in Hindi #65",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Ag4MDWEWHR8/sddefault.jpg"
+    },
+    {
+        "videoId": "Atq7VjVbaA8",
+        "title": "Fetch API | JavaScript Tutorial in Hindi #66",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Atq7VjVbaA8/sddefault.jpg"
+    },
+    {
+        "videoId": "57SrCBCxdgc",
+        "title": "Sending POST request with Fetch API | JavaScript Tutorial in Hindi #67",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/57SrCBCxdgc/sddefault.jpg"
+    },
+    {
+        "videoId": "sHrwueeeMmY",
+        "title": "Cookies in JavaScript| JavaScript Tutorial in Hindi #68",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sHrwueeeMmY/sddefault.jpg"
+    },
+    {
+        "videoId": "A98SPz5XLwY",
+        "title": "localStorage & related methods | JavaScript Tutorial in Hindi #69",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A98SPz5XLwY/sddefault.jpg"
+    },
+    {
+        "videoId": "rfSJeox61vA",
+        "title": "sessionStorage & related methods | JavaScript Tutorial in Hindi #70",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rfSJeox61vA/sddefault.jpg"
+    },
+    {
+        "videoId": "S09Mm2gJlwI",
+        "title": "JavaScript Chapter 10 - Practice Set | JavaScript Tutorial in Hindi #71",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S09Mm2gJlwI/sddefault.jpg"
+    },
+    {
+        "videoId": "jmaniHHrg-0",
+        "title": "Exercise 5: Solutions & Shoutouts | JavaScript Tutorial in Hindi #72",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jmaniHHrg-0/sddefault.jpg"
+    },
+    {
+        "videoId": "hKESY_D2LI0",
+        "title": "Exercise 6: Todo List | JavaScript Tutorial in Hindi #73",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hKESY_D2LI0/sddefault.jpg"
+    },
+    {
+        "videoId": "fe6L8bNC_Yw",
+        "title": "Introduction to Object Oriented Programming | JavaScript Tutorial in Hindi #74",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fe6L8bNC_Yw/sddefault.jpg"
+    },
+    {
+        "videoId": "eDxrLEQbLv0",
+        "title": "Protypes and __proto__ in JavaScript | JavaScript Tutorial in Hindi #75",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eDxrLEQbLv0/sddefault.jpg"
+    },
+    {
+        "videoId": "7RpdfkSyJfU",
+        "title": "Classes and Objects in JavaScript | JavaScript Tutorial in Hindi #76",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7RpdfkSyJfU/sddefault.jpg"
+    },
+    {
+        "videoId": "0E2akQ5E-5Y",
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #77",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0E2akQ5E-5Y/sddefault.jpg"
+    },
+    {
+        "videoId": "9loYq8W8rsg",
+        "title": "Inheritance & extends Keyword in JavaScript | JavaScript Tutorial in Hindi #78",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9loYq8W8rsg/sddefault.jpg"
+    },
+    {
+        "videoId": "M0sXes8zWko",
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #79",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M0sXes8zWko/sddefault.jpg"
+    },
+    {
+        "videoId": "Rpd4FlhytnE",
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #80",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Rpd4FlhytnE/sddefault.jpg"
+    },
+    {
+        "videoId": "__l6ZOPaijs",
+        "title": "Static Method in JavaScript | JavaScript Tutorial in Hindi #81",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/__l6ZOPaijs/sddefault.jpg"
+    },
+    {
+        "videoId": "NsF4BrRfOGM",
+        "title": "getters, setters & instanceOf Operator | JavaScript Tutorial in Hindi #82",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NsF4BrRfOGM/sddefault.jpg"
+    },
+    {
+        "videoId": "-mnNOl5rjPM",
+        "title": "JavaScript Chapter 11 Practice Set | JavaScript Tutorial in Hindi #83",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-mnNOl5rjPM/sddefault.jpg"
+    },
+    {
+        "videoId": "93lSwnzCaws",
+        "title": "Exercise 6 - Solution & Shoutouts | JavaScript Tutorial in Hindi #84",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/93lSwnzCaws/sddefault.jpg"
+    },
+    {
+        "videoId": "iLHad0KWJ5g",
+        "title": "Exercise 7 - Password Generator | JavaScript Tutorial in Hindi #85",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iLHad0KWJ5g/sddefault.jpg"
+    },
+    {
+        "videoId": "oR0yIjzfxQw",
+        "title": "IIFE - Immediately Invoked Function Expressions | JavaScript Tutorial in Hindi #86",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oR0yIjzfxQw/sddefault.jpg"
+    },
+    {
+        "videoId": "_BsE5kmJk6Q",
+        "title": "Destructuring assignment and Spread Operator | JavaScript Tutorial in Hindi #87",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_BsE5kmJk6Q/sddefault.jpg"
+    },
+    {
+        "videoId": "CNk33k5nScg",
+        "title": "local and global Scope in JavaScript | JavaScript Tutorial in Hindi #88",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CNk33k5nScg/sddefault.jpg"
+    },
+    {
+        "videoId": "_FmHfOqJ4SY",
+        "title": "Hoisting in JavaScript | JavaScript Tutorial in Hindi #89",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_FmHfOqJ4SY/sddefault.jpg"
+    },
+    {
+        "videoId": "Ze-JGb4I9zU",
+        "title": "Closures in JavaScript | JavaScript Tutorial in Hindi #90",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Ze-JGb4I9zU/sddefault.jpg"
+    },
+    {
+        "videoId": "bJKjtC9MnZ8",
+        "title": "Arrow Functions Revisited | JavaScript Tutorial in Hindi #91",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bJKjtC9MnZ8/sddefault.jpg"
+    },
+    {
+        "videoId": "bkl5xWLr3fg",
+        "title": "JavaScript Chapter 12 - Practice Set | JavaScript Tutorial in Hindi #92",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bkl5xWLr3fg/sddefault.jpg"
+    },
+    {
+        "videoId": "Rz_jCevUqho",
+        "title": "Exercise 7 - Password Generator Solution | JavaScript Tutorial in Hindi #93",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Rz_jCevUqho/sddefault.jpg"
+    },
+    {
+        "videoId": "vUbuxjF9crY",
+        "title": "Exercise 8 - Alarm Clock | JavaScript Tutorial in Hindi #94",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vUbuxjF9crY/sddefault.jpg"
+    },
+    {
+        "videoId": "CG-7dYcozwI",
+        "title": "JavaScript on the Server | JavaScript Tutorial in Hindi #95",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CG-7dYcozwI/sddefault.jpg"
+    },
+    {
+        "videoId": "nSFe1-kpfbQ",
+        "title": "npm and Node.js Packages | JavaScript Tutorial in Hindi #96",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nSFe1-kpfbQ/sddefault.jpg"
+    },
+    {
+        "videoId": "wCkHbaLG5cw",
+        "title": "Modules in JavaScript | JavaScript Tutorial in Hindi #97",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wCkHbaLG5cw/sddefault.jpg"
+    },
+    {
+        "videoId": "w8CkzOmN8PA",
+        "title": "Using Express.js to Create a Backend Server | JavaScript Tutorial in Hindi #98",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/w8CkzOmN8PA/sddefault.jpg"
+    },
+    {
+        "videoId": "zeMPry3ak6Y",
+        "title": "Regular Expressions in JavaScript | JavaScript Tutorial in Hindi #99",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zeMPry3ak6Y/sddefault.jpg"
+    },
+    {
+        "videoId": "vFJbKR6zfCE",
+        "title": "Event Loop in JavaScript | JavaScript Tutorial in Hindi #100",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vFJbKR6zfCE/sddefault.jpg"
+    },
+    {
+        "videoId": "UxUlw4WCmec",
+        "title": "Exercise 8 - Solutions and Shoutouts | JavaScript Tutorial in Hindi #101",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UxUlw4WCmec/sddefault.jpg"
+    },
+    {
+        "videoId": "hNx3WVi1oPU",
+        "title": "Project 1: PDF Merger WebApp Using JavaScript & Bootstrap | JavaScript Tutorial in Hindi #102",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hNx3WVi1oPU/sddefault.jpg"
+    },
+    {
+        "videoId": "2KdqfKRnyV4",
+        "title": "Project 2: Bulk Rename Desktop App in Node.js | JavaScript Tutorial in Hindi #103",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2KdqfKRnyV4/sddefault.jpg"
+    }
+]

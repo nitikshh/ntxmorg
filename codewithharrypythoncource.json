@@ -1,0 +1,602 @@
+[
+    {
+        "videoId": "7wnove7K-ZQ",
+        "title": "Introduction to Programming & Python | Python Tutorial - Day #1",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7wnove7K-ZQ/sddefault.jpg"
+    },
+    {
+        "videoId": "Tto8TS-fJQU",
+        "title": "Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Tto8TS-fJQU/sddefault.jpg"
+    },
+    {
+        "videoId": "xwKO_y2gHxQ",
+        "title": "Modules and Pip | Python Tutorial - Day #3",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xwKO_y2gHxQ/sddefault.jpg"
+    },
+    {
+        "videoId": "7IWOYhfAcVg",
+        "title": "Our First Python Program | Python Tutorial - Day #4",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7IWOYhfAcVg/sddefault.jpg"
+    },
+    {
+        "videoId": "qxPMmW93eDs",
+        "title": "Comments, Escape Sequences & Print Statement | Python Tutorial - Day #5",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qxPMmW93eDs/sddefault.jpg"
+    },
+    {
+        "videoId": "ORCuz7s5cCY",
+        "title": "Variables and Data Types | Python Tutorial - Day #6",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ORCuz7s5cCY/sddefault.jpg"
+    },
+    {
+        "videoId": "FLVqcxnJP_E",
+        "title": "Exercise 1: Calculator using Python | Python Tutorial - Day #7",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FLVqcxnJP_E/sddefault.jpg"
+    },
+    {
+        "videoId": "dohaSBCKCr0",
+        "title": "Exercise 1: Calculator using Python (Solution) | Python Tutorial - Day #8",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dohaSBCKCr0/sddefault.jpg"
+    },
+    {
+        "videoId": "Pu5bqySSSS0",
+        "title": "Typecasting in Python | Python Tutorial - Day #9",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pu5bqySSSS0/sddefault.jpg"
+    },
+    {
+        "videoId": "WvG-R-xXouA",
+        "title": "Taking User Input in Python | Python Tutorial - Day #10",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WvG-R-xXouA/sddefault.jpg"
+    },
+    {
+        "videoId": "kMNFQYArrLg",
+        "title": "Strings in Python | Python Tutorial - Day #11",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kMNFQYArrLg/sddefault.jpg"
+    },
+    {
+        "videoId": "8jW7lpT8HW8",
+        "title": "Strings Slicing and Operations on Strings in Python | Python Tutorial - Day #12",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8jW7lpT8HW8/sddefault.jpg"
+    },
+    {
+        "videoId": "0INvoK_T0cE",
+        "title": "String Methods in Python | Python Tutorial - Day #13",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0INvoK_T0cE/sddefault.jpg"
+    },
+    {
+        "videoId": "ceiuLR2ysas",
+        "title": "If Else Conditional Statements in Python | Python Tutorial - Day #14",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ceiuLR2ysas/sddefault.jpg"
+    },
+    {
+        "videoId": "d7ng_aV4qdI",
+        "title": "Exercise 2: Good Morning Sir | Python Tutorial - Day #15",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/d7ng_aV4qdI/sddefault.jpg"
+    },
+    {
+        "videoId": "bthQCK1QAmQ",
+        "title": "Match Case Statements in Python | Python Tutorial - Day #16",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bthQCK1QAmQ/sddefault.jpg"
+    },
+    {
+        "videoId": "fIYVzKp0q5w",
+        "title": "For Loops in Python | Python Tutorial - Day #17",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fIYVzKp0q5w/sddefault.jpg"
+    },
+    {
+        "videoId": "-tCFyIyKVx0",
+        "title": "While Loops in Python | Python Tutorial - Day #18",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-tCFyIyKVx0/sddefault.jpg"
+    },
+    {
+        "videoId": "RkwJnjdrm70",
+        "title": "break and continue in Python | Python Tutorial - Day #19",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RkwJnjdrm70/sddefault.jpg"
+    },
+    {
+        "videoId": "dyvxxJSGUsE",
+        "title": "Functions in Python | Python Tutorial - Day #20",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dyvxxJSGUsE/sddefault.jpg"
+    },
+    {
+        "videoId": "0d6b6fFuCkE",
+        "title": "Function Arguments in Python | Python Tutorial - Day #21",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0d6b6fFuCkE/sddefault.jpg"
+    },
+    {
+        "videoId": "eF6nK5bSlmg",
+        "title": "Introduction to Lists in Python | Python Tutorial - Day #22",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eF6nK5bSlmg/sddefault.jpg"
+    },
+    {
+        "videoId": "scWc3F8LbOo",
+        "title": "List Methods in Python | Python Tutorial - Day #23",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/scWc3F8LbOo/sddefault.jpg"
+    },
+    {
+        "videoId": "PipsOUDKrVk",
+        "title": "Tuples in Python | Python Tutorial - Day #24",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PipsOUDKrVk/sddefault.jpg"
+    },
+    {
+        "videoId": "XblLSduioJI",
+        "title": "Operations on Tuples in Python | Python Tutorial - Day #25",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XblLSduioJI/sddefault.jpg"
+    },
+    {
+        "videoId": "IZBKXWrbqBM",
+        "title": "Exercise 2: Solution & Shoutouts | Python Tutorial - Day #26",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IZBKXWrbqBM/sddefault.jpg"
+    },
+    {
+        "videoId": "Vs1Z7K70Mvw",
+        "title": "Exercise 3: Kaun Banega Crorepati (KBC) | Python Tutorial - Day #27",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Vs1Z7K70Mvw/sddefault.jpg"
+    },
+    {
+        "videoId": "ixmxgUf8yIg",
+        "title": "f-strings in Python | Python Tutorial - Day #28",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ixmxgUf8yIg/sddefault.jpg"
+    },
+    {
+        "videoId": "SJzsNd7SM0g",
+        "title": "Docstrings in Python | Python Tutorial - Day #29",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SJzsNd7SM0g/sddefault.jpg"
+    },
+    {
+        "videoId": "XYwJKFB8DUk",
+        "title": "Recursion in Python | Python Tutorial - Day #30",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XYwJKFB8DUk/sddefault.jpg"
+    },
+    {
+        "videoId": "l3kCO8cVA6o",
+        "title": "Sets in Python | Python Tutorial - Day #31",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/l3kCO8cVA6o/sddefault.jpg"
+    },
+    {
+        "videoId": "HOrutCnp2zo",
+        "title": "Set Methods in Python | Python Tutorial - Day #32",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HOrutCnp2zo/sddefault.jpg"
+    },
+    {
+        "videoId": "j2G68uQtOwM",
+        "title": "Dictionaries in Python | Python Tutorial - Day #33",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/j2G68uQtOwM/sddefault.jpg"
+    },
+    {
+        "videoId": "LmbFwaLjT9k",
+        "title": "Dictionary Methods in Python | Python Tutorial - Day #34",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LmbFwaLjT9k/sddefault.jpg"
+    },
+    {
+        "videoId": "qUkcIgErZzc",
+        "title": "for Loop with else in Python | Python Tutorial - Day #35",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qUkcIgErZzc/sddefault.jpg"
+    },
+    {
+        "videoId": "4LKo6dlku7M",
+        "title": "Exception Handling in Python | Python Tutorial - Day #36",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4LKo6dlku7M/sddefault.jpg"
+    },
+    {
+        "videoId": "r_iuC-IDpPM",
+        "title": "Finally keyword in Python | Python Tutorial - Day #37",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/r_iuC-IDpPM/sddefault.jpg"
+    },
+    {
+        "videoId": "Phr4CNppYoM",
+        "title": "Raising custom errors in Python | Python Tutorial - Day #38",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Phr4CNppYoM/sddefault.jpg"
+    },
+    {
+        "videoId": "nyfeYAxP-EM",
+        "title": "Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts | Python Tutorial - Day #39",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nyfeYAxP-EM/sddefault.jpg"
+    },
+    {
+        "videoId": "pOWJ6WgVRIU",
+        "title": "Exercise 4: Secret Code Language | Python Tutorial - Day #40",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pOWJ6WgVRIU/sddefault.jpg"
+    },
+    {
+        "videoId": "Qqx_zNmQVGI",
+        "title": "Short hand if else statements | Python Tutorial - Day #41",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Qqx_zNmQVGI/sddefault.jpg"
+    },
+    {
+        "videoId": "kGnYc_h1geM",
+        "title": "Enumerate Function in Python | Python Tutorial - Day #42",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kGnYc_h1geM/sddefault.jpg"
+    },
+    {
+        "videoId": "nt6LlFTWOkg",
+        "title": "Virtual Environment in Python | Python Tutorial - Day #43",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nt6LlFTWOkg/sddefault.jpg"
+    },
+    {
+        "videoId": "Pr7UOr35NcI",
+        "title": "How import works in Python | Python Tutorial - Day #44",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pr7UOr35NcI/sddefault.jpg"
+    },
+    {
+        "videoId": "y_CX2Rvitk8",
+        "title": "if __name__ == \"__main__\" in Python | Python Tutorial - Day #45",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y_CX2Rvitk8/sddefault.jpg"
+    },
+    {
+        "videoId": "dkVYSsL90Oo",
+        "title": "os Module in Python | Python Tutorial - Day #46",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dkVYSsL90Oo/sddefault.jpg"
+    },
+    {
+        "videoId": "4lSQfOJKn7U",
+        "title": "Exercise 4: Solutions and Shoutouts | Python Tutorial - Day #47",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4lSQfOJKn7U/sddefault.jpg"
+    },
+    {
+        "videoId": "RaG6GgcDt54",
+        "title": "Local vs Global Variables in Python| Python Tutorial - Day #48",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RaG6GgcDt54/sddefault.jpg"
+    },
+    {
+        "videoId": "eDBPlcWYses",
+        "title": "File IO in Python | Python Tutorial - Day #49",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eDBPlcWYses/sddefault.jpg"
+    },
+    {
+        "videoId": "l1FsnQxET9U",
+        "title": "read(), readlines() and other methods | Python Tutorial - Day #50",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/l1FsnQxET9U/sddefault.jpg"
+    },
+    {
+        "videoId": "PByYX-2l5Us",
+        "title": "seek(), tell() and other functions | Python Tutorial - Day #51",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PByYX-2l5Us/sddefault.jpg"
+    },
+    {
+        "videoId": "UfFWf-PXUqE",
+        "title": "Lambda functions in Python | Python Tutorial - Day #52",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UfFWf-PXUqE/sddefault.jpg"
+    },
+    {
+        "videoId": "OErhjT4f5Cs",
+        "title": "Map, Filter and Reduce in Python | Python Tutorial - Day #53",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OErhjT4f5Cs/sddefault.jpg"
+    },
+    {
+        "videoId": "TOemdfX_0xc",
+        "title": "'is' vs '==' in Python | Python Tutorial - Day #54",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TOemdfX_0xc/sddefault.jpg"
+    },
+    {
+        "videoId": "dDsh7FT6-0I",
+        "title": "Exercise 5 - Snake Water Gun | Python Tutorial - Day #55",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dDsh7FT6-0I/sddefault.jpg"
+    },
+    {
+        "videoId": "HQnoYzxOHMw",
+        "title": "Introduction to OOPs in Python | Python Tutorial - Day #56",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HQnoYzxOHMw/sddefault.jpg"
+    },
+    {
+        "videoId": "a7baAGCBA9U",
+        "title": "Classes and Objects in Python | Python Tutorial - Day #57",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/a7baAGCBA9U/sddefault.jpg"
+    },
+    {
+        "videoId": "12HRkYld22c",
+        "title": "Constructors in Python | Python Tutorial - Day #58",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/12HRkYld22c/sddefault.jpg"
+    },
+    {
+        "videoId": "PTBZ674EsvI",
+        "title": "Decorators in Python | Python Tutorial - Day #59",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PTBZ674EsvI/sddefault.jpg"
+    },
+    {
+        "videoId": "2gbCT8h9uyk",
+        "title": "Getters and Setters in Python | Python Tutorial - Day #60",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2gbCT8h9uyk/sddefault.jpg"
+    },
+    {
+        "videoId": "-KsfUaQEY9Y",
+        "title": "Inheritance in Python | Python Tutorial - Day #61",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-KsfUaQEY9Y/sddefault.jpg"
+    },
+    {
+        "videoId": "43FK20rWvKQ",
+        "title": "Access Modifiers in Python | Python Tutorial - Day #62",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/43FK20rWvKQ/sddefault.jpg"
+    },
+    {
+        "videoId": "GkfBpm6MN9A",
+        "title": "Snake Water Gun Game in Python - Exercise 5 - Solution | Python Tutorial - Day #63",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GkfBpm6MN9A/sddefault.jpg"
+    },
+    {
+        "videoId": "mlDZTSH2FFc",
+        "title": "Exercise 6 - Library Management System in Python | Python Tutorial - Day #64",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mlDZTSH2FFc/sddefault.jpg"
+    },
+    {
+        "videoId": "GcSVYNSsJxo",
+        "title": "Static Methods in Python | Python Tutorial - Day #65",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GcSVYNSsJxo/sddefault.jpg"
+    },
+    {
+        "videoId": "tQdaeiF4j38",
+        "title": "Instance variables vs Class variables in Python | Python Tutorial - Day #66",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tQdaeiF4j38/sddefault.jpg"
+    },
+    {
+        "videoId": "uRIEjf2vCIg",
+        "title": "Exercise 6 Solution - Library Management Software in Python | Python Tutorial - Day #67",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uRIEjf2vCIg/sddefault.jpg"
+    },
+    {
+        "videoId": "6KvnP13TnhY",
+        "title": "Exercise 7 - Clear the Clutter | Python Tutorial - Day #68",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6KvnP13TnhY/sddefault.jpg"
+    },
+    {
+        "videoId": "9ynmDLc5FYo",
+        "title": "Class Methods in Python | Python Tutorial - Day #69",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9ynmDLc5FYo/sddefault.jpg"
+    },
+    {
+        "videoId": "FGlKJdy--p8",
+        "title": "Class Methods as Alternative Constructors in Python | Python Tutorial - Day #70",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FGlKJdy--p8/sddefault.jpg"
+    },
+    {
+        "videoId": "Wgo9TaBcuJ4",
+        "title": "dir, __dict__ and help method in Python | Python Tutorial - Day #71",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Wgo9TaBcuJ4/sddefault.jpg"
+    },
+    {
+        "videoId": "P648reefNh0",
+        "title": "super keyword in Python | Python Tutorial - Day #72",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/P648reefNh0/sddefault.jpg"
+    },
+    {
+        "videoId": "DmgQVJXhuLQ",
+        "title": "Magic/Dunder Methods in Python | Python Tutorial - Day #73",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DmgQVJXhuLQ/sddefault.jpg"
+    },
+    {
+        "videoId": "46_yfYC36JY",
+        "title": "Method Overriding in Python | Python Tutorial - Day #74",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/46_yfYC36JY/sddefault.jpg"
+    },
+    {
+        "videoId": "Wt9Shnzv_Yg",
+        "title": "Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Wt9Shnzv_Yg/sddefault.jpg"
+    },
+    {
+        "videoId": "uUbvJ7ZEhPE",
+        "title": "Exercise 8 - Merge the PDF | Python Tutorial - Day #76",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uUbvJ7ZEhPE/sddefault.jpg"
+    },
+    {
+        "videoId": "D67-b2t-y4k",
+        "title": "Operator Overloading in Python | Python Tutorial - Day #77",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D67-b2t-y4k/sddefault.jpg"
+    },
+    {
+        "videoId": "U53_Gw55NI8",
+        "title": "Single Inheritance in Python | Python Tutorial - Day #78",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/U53_Gw55NI8/sddefault.jpg"
+    },
+    {
+        "videoId": "4o7xSHgKlvI",
+        "title": "Multiple Inheritance in Python | Python Tutorial - Day #79",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4o7xSHgKlvI/sddefault.jpg"
+    },
+    {
+        "videoId": "Il7XMJJeXiA",
+        "title": "Multilevel Inheritance in Python | Python Tutorial - Day #80",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Il7XMJJeXiA/sddefault.jpg"
+    },
+    {
+        "videoId": "B4Q8zxRkm_I",
+        "title": "Hybrid and Hierarchical Inheritance in Python | Python Tutorial - Day #81",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B4Q8zxRkm_I/sddefault.jpg"
+    },
+    {
+        "videoId": "qKKGemhBRVM",
+        "title": "Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qKKGemhBRVM/sddefault.jpg"
+    },
+    {
+        "videoId": "1WjwnlRXfHc",
+        "title": "Exercise 9 - Shoutouts to Everyone | Python Tutorial - Day #83",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1WjwnlRXfHc/sddefault.jpg"
+    },
+    {
+        "videoId": "oTtIvV-Q1FY",
+        "title": "Time Module in Python | Python Tutorial - Day #84",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oTtIvV-Q1FY/sddefault.jpg"
+    },
+    {
+        "videoId": "3IAu6-pgw7I",
+        "title": "Creating command line utility in python | Python Tutorial - Day #85",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3IAu6-pgw7I/sddefault.jpg"
+    },
+    {
+        "videoId": "NCmMEEyzLT8",
+        "title": "Walrus Operator in Python | Python Tutorial - Day #86",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NCmMEEyzLT8/sddefault.jpg"
+    },
+    {
+        "videoId": "wII2JhNACJE",
+        "title": "Shutil Module in Python | Python Tutorial - Day #87",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wII2JhNACJE/sddefault.jpg"
+    },
+    {
+        "videoId": "C9VP-56RXNM",
+        "title": "Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/C9VP-56RXNM/sddefault.jpg"
+    },
+    {
+        "videoId": "Nsb3bLIlO4w",
+        "title": "Requests Module in Python | Python Tutorial - Day #89",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nsb3bLIlO4w/sddefault.jpg"
+    },
+    {
+        "videoId": "BGzFp9mwFQ4",
+        "title": "Exercise 10: News App in Python | Python Tutorial - Day #90",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BGzFp9mwFQ4/sddefault.jpg"
+    },
+    {
+        "videoId": "ixd-u3pmsUc",
+        "title": "Generators in Python | Python Tutorial - Day #91",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ixd-u3pmsUc/sddefault.jpg"
+    },
+    {
+        "videoId": "K8gjSwc3Rlo",
+        "title": "Function Caching in Python | Python Tutorial - Day #92",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K8gjSwc3Rlo/sddefault.jpg"
+    },
+    {
+        "videoId": "bnAz7Kb2efE",
+        "title": "Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bnAz7Kb2efE/sddefault.jpg"
+    },
+    {
+        "videoId": "1i4piFhpnm8",
+        "title": "Exercise 11 - Drink Water Reminder | Python Tutorial - Day #94",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1i4piFhpnm8/sddefault.jpg"
+    },
+    {
+        "videoId": "TCWOwavqFrw",
+        "title": "Regular Expressions in Python | Python Tutorial - Day #95",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TCWOwavqFrw/sddefault.jpg"
+    },
+    {
+        "videoId": "lgoB3_-ejnI",
+        "title": "AsyncIO in Python | Python Tutorial - Day #96",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lgoB3_-ejnI/sddefault.jpg"
+    },
+    {
+        "videoId": "ICbU6zAKtqQ",
+        "title": "Multithreading in Python | Python Tutorial - Day #97",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ICbU6zAKtqQ/sddefault.jpg"
+    },
+    {
+        "videoId": "zGe-9LfnAaA",
+        "title": "MultiProcessing in Python | Python Tutorial - Day #98",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zGe-9LfnAaA/sddefault.jpg"
+    },
+    {
+        "videoId": "18vZnLqXMoM",
+        "title": "Exercise 11: Solution + Shoutouts - Desktop Notification System | Python Tutorial - Day #99",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/18vZnLqXMoM/sddefault.jpg"
+    },
+    {
+        "videoId": "5Pz8WGiMJ_c",
+        "title": "Conclusion and Where to go from here | Python Tutorial - Day #100",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5Pz8WGiMJ_c/sddefault.jpg"
+    }
+]

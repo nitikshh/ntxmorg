@@ -1,0 +1,782 @@
+[
+    {
+        "videoId": "tVzUXW6siu0",
+        "title": "Installing VS Code & How Websites Work | Sigma Web Development Course - Tutorial #1",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tVzUXW6siu0/sddefault.jpg"
+    },
+    {
+        "videoId": "kJEsTjH5mVg",
+        "title": "Your First HTML Website | Sigma Web Development Course - Tutorial #2",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kJEsTjH5mVg/sddefault.jpg"
+    },
+    {
+        "videoId": "BGeDBfCIqas",
+        "title": "Basic Structure of an HTML Website | Sigma Web Development Course - Tutorial #3",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BGeDBfCIqas/sddefault.jpg"
+    },
+    {
+        "videoId": "nXba2-mgn1k",
+        "title": "Heading, Paragraphs and Links | Sigma Web Development Course - Tutorial #4",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nXba2-mgn1k/sddefault.jpg"
+    },
+    {
+        "videoId": "1BsVhumGlNc",
+        "title": "Image, Lists, and Tables in HTML | Sigma Web Development Course - Tutorial #5",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1BsVhumGlNc/sddefault.jpg"
+    },
+    {
+        "videoId": "CyRlWlaJnTY",
+        "title": "SEO and Core Web Vitals in HTML | Sigma Web Development Course - Tutorial #6",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CyRlWlaJnTY/sddefault.jpg"
+    },
+    {
+        "videoId": "tLBlhp0SA_0",
+        "title": "Forms and input tags in HTML | Sigma Web Development Course - Tutorial #7",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tLBlhp0SA_0/sddefault.jpg"
+    },
+    {
+        "videoId": "vnnlUCLfn6I",
+        "title": "Inline & Block Elements in HTML | Sigma Web Development Course - Tutorial #8",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vnnlUCLfn6I/sddefault.jpg"
+    },
+    {
+        "videoId": "vlAWzsGd-Yk",
+        "title": "Id & Classes in HTML | Sigma Web Development Course - Tutorial #9",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vlAWzsGd-Yk/sddefault.jpg"
+    },
+    {
+        "videoId": "XZwBNDGuWGU",
+        "title": "Video, Audio & Media in HTML | Sigma Web Development Course - Tutorial #10",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XZwBNDGuWGU/sddefault.jpg"
+    },
+    {
+        "videoId": "fhoDRB53DwY",
+        "title": "Semantic Tags  in HTML | Sigma Web Development Course - Tutorial #11",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fhoDRB53DwY/sddefault.jpg"
+    },
+    {
+        "videoId": "5xFRg_TzlAg",
+        "title": "Exercise 1 - Pure HTML Media Player | Sigma Web Development Course - Tutorial #12",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5xFRg_TzlAg/sddefault.jpg"
+    },
+    {
+        "videoId": "cvsbHZcDx8w",
+        "title": "Entities, Code tag and more on HTML | Sigma Web Development Course - Tutorial #13",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cvsbHZcDx8w/sddefault.jpg"
+    },
+    {
+        "videoId": "1dkfuga2_Ps",
+        "title": "Introduction to CSS | Sigma Web Development Course - Tutorial #14",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1dkfuga2_Ps/sddefault.jpg"
+    },
+    {
+        "videoId": "-XwZpYIyCEA",
+        "title": "Inline, Internal & External CSS | Sigma Web Development Course - Tutorial #15",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-XwZpYIyCEA/sddefault.jpg"
+    },
+    {
+        "videoId": "anGMeDGvZhw",
+        "title": "Exercise 1 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #16",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/anGMeDGvZhw/sddefault.jpg"
+    },
+    {
+        "videoId": "1cEG1T8beO4",
+        "title": "CSS Selectors MasterClass | Sigma Web Development Course - Tutorial #17",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1cEG1T8beO4/sddefault.jpg"
+    },
+    {
+        "videoId": "Xrxd6cEajhM",
+        "title": "CSS Box Model - Margin, Padding & Borders | Sigma Web Development Course - Tutorial #18",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Xrxd6cEajhM/sddefault.jpg"
+    },
+    {
+        "videoId": "aFicd4-YTfo",
+        "title": "CSS Fonts, Text & Color Properties | Sigma Web Development Course - Tutorial #19",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aFicd4-YTfo/sddefault.jpg"
+    },
+    {
+        "videoId": "4aBolpJoutw",
+        "title": "Exercise 2 - CSS Challenge | Sigma Web Development Course - Tutorial #20",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4aBolpJoutw/sddefault.jpg"
+    },
+    {
+        "videoId": "uTcpbPMZlFE",
+        "title": "CSS Specificity & Cascade | Sigma Web Development Course - Tutorial #21",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uTcpbPMZlFE/sddefault.jpg"
+    },
+    {
+        "videoId": "nkaAJYfRDVk",
+        "title": "CSS Sizing Units - px, rem, em, vh, vw, % & more | Sigma Web Development Course - Tutorial #22",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nkaAJYfRDVk/sddefault.jpg"
+    },
+    {
+        "videoId": "hRHV5cjEB1w",
+        "title": "CSS Display Property | Sigma Web Development Course - Tutorial #23",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hRHV5cjEB1w/sddefault.jpg"
+    },
+    {
+        "videoId": "BZJcNU648Tc",
+        "title": "CSS Shadows and Outlines | Sigma Web Development Course - Tutorial #24",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BZJcNU648Tc/sddefault.jpg"
+    },
+    {
+        "videoId": "ZIofkptpXO8",
+        "title": "Styling Lists using CSS | Sigma Web Development Course - Tutorial #25",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZIofkptpXO8/sddefault.jpg"
+    },
+    {
+        "videoId": "ntlawluDB-c",
+        "title": "CSS Overflow Property | Sigma Web Development Course - Tutorial #26",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ntlawluDB-c/sddefault.jpg"
+    },
+    {
+        "videoId": "g1HJ65p5YdI",
+        "title": "Exercise 2 - Solutions and Shoutouts | Sigma Web Development Course - Tutorial #27",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g1HJ65p5YdI/sddefault.jpg"
+    },
+    {
+        "videoId": "cOw6tgH6P20",
+        "title": "CSS Position Property | Sigma Web Development Course - Tutorial #28",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cOw6tgH6P20/sddefault.jpg"
+    },
+    {
+        "videoId": "nm3HrrUuz50",
+        "title": "Exercise 3 - Design this Card  | Sigma Web Development Course - Tutorial #29",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nm3HrrUuz50/sddefault.jpg"
+    },
+    {
+        "videoId": "ovRU9xHfly4",
+        "title": "CSS Variables | Sigma Web Development Course - Tutorial #30",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ovRU9xHfly4/sddefault.jpg"
+    },
+    {
+        "videoId": "eHye3PxH4jU",
+        "title": "CSS Media Queries | Sigma Web Development Course - Tutorial #31",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eHye3PxH4jU/sddefault.jpg"
+    },
+    {
+        "videoId": "2PWgbyL3ex8",
+        "title": "Exercise 3 - Solution | Sigma Web Development Course - Tutorial #32",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2PWgbyL3ex8/sddefault.jpg"
+    },
+    {
+        "videoId": "-WN74rN9OPI",
+        "title": "Exercise 4 - Multi Color Website | Sigma Web Development Course - Tutorial #33",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-WN74rN9OPI/sddefault.jpg"
+    },
+    {
+        "videoId": "6_UoTF7njLM",
+        "title": "CSS Float & Clear | Sigma Web Development Course - Tutorial #34",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6_UoTF7njLM/sddefault.jpg"
+    },
+    {
+        "videoId": "L8NfSewTfxY",
+        "title": "More on CSS Selectors | Sigma Web Development Course - Tutorial #35",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/L8NfSewTfxY/sddefault.jpg"
+    },
+    {
+        "videoId": "n1T6Ve00j24",
+        "title": "Exercise 4 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #36",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/n1T6Ve00j24/sddefault.jpg"
+    },
+    {
+        "videoId": "8Hk4MmO9ZeQ",
+        "title": "CSS Exercise 5 - Design this Layout | Sigma Web Development Course - Tutorial #37",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8Hk4MmO9ZeQ/sddefault.jpg"
+    },
+    {
+        "videoId": "DWk2mndNTHY",
+        "title": "CSS Flexbox - Ultimate MasterClass | Sigma Web Development Course - Tutorial #38",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DWk2mndNTHY/sddefault.jpg"
+    },
+    {
+        "videoId": "7AgEjgUtho4",
+        "title": "CSS Grid - Ultimate MasterClass | Sigma Web Development Course - Tutorial #39",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7AgEjgUtho4/sddefault.jpg"
+    },
+    {
+        "videoId": "-uVJlSHueYQ",
+        "title": "Exercise 5 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #40",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-uVJlSHueYQ/sddefault.jpg"
+    },
+    {
+        "videoId": "A5fK2Y8-if8",
+        "title": "Exercise 6 - Navbar using Flexbox | Sigma Web Development Course - Tutorial #41",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A5fK2Y8-if8/sddefault.jpg"
+    },
+    {
+        "videoId": "GGlzzLTLzxs",
+        "title": "CSS Transforms MasterClass | Sigma Web Development Course - Tutorial #42",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GGlzzLTLzxs/sddefault.jpg"
+    },
+    {
+        "videoId": "SC7GCk1OiVo",
+        "title": "Exercise 6 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #43",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SC7GCk1OiVo/sddefault.jpg"
+    },
+    {
+        "videoId": "zJaiTrw-hu8",
+        "title": "Exercise 7 - Design the Grid | Sigma Web Development Course - Tutorial #44",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zJaiTrw-hu8/sddefault.jpg"
+    },
+    {
+        "videoId": "pHI4PBFM0wY",
+        "title": "CSS Transition Property | Sigma Web Development Course - Tutorial #45",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pHI4PBFM0wY/sddefault.jpg"
+    },
+    {
+        "videoId": "cDLVIoXW-OQ",
+        "title": "CSS Animations | Sigma Web Development Course - Tutorial #46",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cDLVIoXW-OQ/sddefault.jpg"
+    },
+    {
+        "videoId": "yktqxOHOeR4",
+        "title": "Exercise 7 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #47",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yktqxOHOeR4/sddefault.jpg"
+    },
+    {
+        "videoId": "PIC0Ps_Ci-s",
+        "title": "Exercise 8 - Bounce Animation | Sigma Web Development Course - Tutorial #48",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PIC0Ps_Ci-s/sddefault.jpg"
+    },
+    {
+        "videoId": "ognrhoi0C-w",
+        "title": "CSS Object-fit and Object-cover | Sigma Web Development Course - Tutorial #49",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ognrhoi0C-w/sddefault.jpg"
+    },
+    {
+        "videoId": "tSzDHVWG1hI",
+        "title": "CSS Filters | Sigma Web Development Course - Tutorial #50",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tSzDHVWG1hI/sddefault.jpg"
+    },
+    {
+        "videoId": "chYx6vVzWVw",
+        "title": "Exercise 8: Solution & Shoutouts | Sigma Web Development Course - Tutorial #51",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/chYx6vVzWVw/sddefault.jpg"
+    },
+    {
+        "videoId": "mpJb9GNxdYI",
+        "title": "Figma Basics in One Video | Sigma Web Development Course - Tutorial #52",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mpJb9GNxdYI/sddefault.jpg"
+    },
+    {
+        "videoId": "ovKVqo-L2EM",
+        "title": "Netflix Clone Using HTML & CSS | Sigma Web Development Course - Tutorial #53",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ovKVqo-L2EM/sddefault.jpg"
+    },
+    {
+        "videoId": "NrhP53Divco",
+        "title": "Introduction to JavaScript & Installing Node.js | Sigma Web Development Course - Tutorial #54",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NrhP53Divco/sddefault.jpg"
+    },
+    {
+        "videoId": "HGCDMJXS1cc",
+        "title": "JavaScript Variables, Data Types & Objects | Sigma Web Development Course - Tutorial #55",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HGCDMJXS1cc/sddefault.jpg"
+    },
+    {
+        "videoId": "1R4NGtsj7hw",
+        "title": "JavaScript Conditionals: if, else if,  else ladder | Sigma Web Development Course - Tutorial #56",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1R4NGtsj7hw/sddefault.jpg"
+    },
+    {
+        "videoId": "y32sWmu-RI4",
+        "title": "JavaScript Loops | Sigma Web Development Course - Tutorial #57",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y32sWmu-RI4/sddefault.jpg"
+    },
+    {
+        "videoId": "Jtc3j4ZNZEQ",
+        "title": "JavaScript Functions | Sigma Web Development Course - Tutorial #58",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jtc3j4ZNZEQ/sddefault.jpg"
+    },
+    {
+        "videoId": "OrWmrQ2wrKU",
+        "title": "Exercise 9 - Faulty Calculator | Sigma Web Development Course - Tutorial #59",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OrWmrQ2wrKU/sddefault.jpg"
+    },
+    {
+        "videoId": "uJbYqm7W_mA",
+        "title": "JavaScript Strings | Sigma Web Development Course - Tutorial #60",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uJbYqm7W_mA/sddefault.jpg"
+    },
+    {
+        "videoId": "nQAUGxt2qoU",
+        "title": "JavaScript Exercise 9 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #61",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nQAUGxt2qoU/sddefault.jpg"
+    },
+    {
+        "videoId": "FkEbEfHQAZw",
+        "title": "JavaScript Exercise 10 - Business Name Generator | Sigma Web Development Course - Tutorial #62",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FkEbEfHQAZw/sddefault.jpg"
+    },
+    {
+        "videoId": "IFZZAaiatcQ",
+        "title": "JavaScript Arrays | Sigma Web Development Course - Tutorial #63",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IFZZAaiatcQ/sddefault.jpg"
+    },
+    {
+        "videoId": "wPWZqewZ4LA",
+        "title": "JavaScript Exercise 10 - Solution | Sigma Web Development Course - Tutorial #64",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wPWZqewZ4LA/sddefault.jpg"
+    },
+    {
+        "videoId": "ccfq9yW-dYU",
+        "title": "JavaScript Exercise 11 - Calculate the Factorial | Sigma Web Development Course - Tutorial #65",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ccfq9yW-dYU/sddefault.jpg"
+    },
+    {
+        "videoId": "oxO1Z5L5S4c",
+        "title": "Document Object Model in JavaScript | Sigma Web Development Course - Tutorial #66",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oxO1Z5L5S4c/sddefault.jpg"
+    },
+    {
+        "videoId": "_8o_BiLAgQM",
+        "title": "JavaScript DOM - Children, Parent & Sibling Nodes | Sigma Web Development Course - Tutorial #67",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_8o_BiLAgQM/sddefault.jpg"
+    },
+    {
+        "videoId": "uFbCTidM-xw",
+        "title": "JavaScript -  Selecting by Ids, Classes, and More | Sigma Web Development Course - Tutorial #68",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uFbCTidM-xw/sddefault.jpg"
+    },
+    {
+        "videoId": "Xoz_KYfaSkk",
+        "title": "JavaScript Exercise 11 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #69",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Xoz_KYfaSkk/sddefault.jpg"
+    },
+    {
+        "videoId": "V4ohRrvu4Ok",
+        "title": "JavaScript Exercise 12 - Color the Boxes | Sigma Web Development Course - Tutorial #70",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/V4ohRrvu4Ok/sddefault.jpg"
+    },
+    {
+        "videoId": "KB7GzBv5p4Q",
+        "title": "Inserting and Removing Elements using JavaScript | Sigma Web Development Course - Tutorial #71",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KB7GzBv5p4Q/sddefault.jpg"
+    },
+    {
+        "videoId": "mCx5aSEK8YE",
+        "title": "JavaScript Exercise 12 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #72",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mCx5aSEK8YE/sddefault.jpg"
+    },
+    {
+        "videoId": "KtL-SQ20Q0s",
+        "title": "JavaScript Exercise 13 - Dynamic Website Builder | Sigma Web Development Course - Tutorial #73",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KtL-SQ20Q0s/sddefault.jpg"
+    },
+    {
+        "videoId": "CO_DAXswOrc",
+        "title": "Events, Event Bubbling, setInterval & setTimeout | Sigma Web Development Course - Tutorial #74",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CO_DAXswOrc/sddefault.jpg"
+    },
+    {
+        "videoId": "9JaDBYPmiJ0",
+        "title": "JavaScript Callbacks & Promises | Sigma Web Development Course - Tutorial #75",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9JaDBYPmiJ0/sddefault.jpg"
+    },
+    {
+        "videoId": "gRLdHSabW3o",
+        "title": "Async/Await & Fetch API in JavaScript with Examples | Sigma Web Development Course - Tutorial #76",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gRLdHSabW3o/sddefault.jpg"
+    },
+    {
+        "videoId": "UzYRQURh_pY",
+        "title": "JavaScript Exercise 13 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #77",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UzYRQURh_pY/sddefault.jpg"
+    },
+    {
+        "videoId": "WYazkpCQNQw",
+        "title": "JavaScript Exercise 14 - Hacker's Terminal | Sigma Web Development Course - Tutorial #78",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WYazkpCQNQw/sddefault.jpg"
+    },
+    {
+        "videoId": "aQn7ssqHYp4",
+        "title": "JavaScript try catch & Error Handling | Sigma Web Development Course - Tutorial #79",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aQn7ssqHYp4/sddefault.jpg"
+    },
+    {
+        "videoId": "FeBbjzVOeRU",
+        "title": "Classes & Objects - Object Oriented Programming in Js | Sigma Web Development Course - Tutorial #80",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FeBbjzVOeRU/sddefault.jpg"
+    },
+    {
+        "videoId": "9H-Ieq6zjIY",
+        "title": "JavaScript Exercise 14 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #81",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9H-Ieq6zjIY/sddefault.jpg"
+    },
+    {
+        "videoId": "tcQDnqRakxk",
+        "title": "Advanced JavaScript | Sigma Web Development Course - Tutorial #82",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tcQDnqRakxk/sddefault.jpg"
+    },
+    {
+        "videoId": "Vwxs9YJWsx4",
+        "title": "JavaScript Interview Questions | Sigma Web Development Course - Tutorial #83",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Vwxs9YJWsx4/sddefault.jpg"
+    },
+    {
+        "videoId": "CYwEq1GdU4E",
+        "title": "Spotify Clone using HTML, CSS & JavaScript | Sigma Web Development Course - Tutorial #84",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CYwEq1GdU4E/sddefault.jpg"
+    },
+    {
+        "videoId": "NoWRBo3Uf8E",
+        "title": "Backend, Node.js & npm | Sigma Web Development Course - Tutorial #85",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NoWRBo3Uf8E/sddefault.jpg"
+    },
+    {
+        "videoId": "bU69doALJGU",
+        "title": "CommonJs Vs EcmaScript Modules | Sigma Web Development Course - Tutorial #86",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bU69doALJGU/sddefault.jpg"
+    },
+    {
+        "videoId": "BTcmvrCTyNg",
+        "title": "Working with Files: fs and path Modules | Sigma Web Development Course - Tutorial #87",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BTcmvrCTyNg/sddefault.jpg"
+    },
+    {
+        "videoId": "R11tvGM3nDY",
+        "title": "Introduction to Express Js | Sigma Web Development Course - Tutorial #88",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/R11tvGM3nDY/sddefault.jpg"
+    },
+    {
+        "videoId": "SksvlZM-5Sk",
+        "title": "Response, Request and Routers in Express | Sigma Web Development Course - Tutorial #89",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SksvlZM-5Sk/sddefault.jpg"
+    },
+    {
+        "videoId": "VELNPK0dK84",
+        "title": "Middlewares in Express Js | Sigma Web Development Course - Tutorial #90",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VELNPK0dK84/sddefault.jpg"
+    },
+    {
+        "videoId": "1YSVEW3i8OQ",
+        "title": "Exercise 15 - Clear the Clutter | Sigma Web Development Course - Tutorial #91",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1YSVEW3i8OQ/sddefault.jpg"
+    },
+    {
+        "videoId": "Kah88N8W5rs",
+        "title": "ejs Template Engine in Express | Sigma Web Development Course - Tutorial #92",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Kah88N8W5rs/sddefault.jpg"
+    },
+    {
+        "videoId": "bM7bmh955Gs",
+        "title": "Exercise 15 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #93",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bM7bmh955Gs/sddefault.jpg"
+    },
+    {
+        "videoId": "oMrKVEedpHg",
+        "title": "Installing MongoDB & MongoDB Compass | Sigma Web Development Course - Tutorial #94",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oMrKVEedpHg/sddefault.jpg"
+    },
+    {
+        "videoId": "9Om0FMBz1yU",
+        "title": "CRUD Operations in MongoDB | Sigma Web Development Course - Tutorial #95",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9Om0FMBz1yU/sddefault.jpg"
+    },
+    {
+        "videoId": "wgwo5hbY7SY",
+        "title": "Installing Mongoose & Using it with Express | Sigma Web Development Course - Tutorial #96",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wgwo5hbY7SY/sddefault.jpg"
+    },
+    {
+        "videoId": "yDnxgIRcnso",
+        "title": "Exercise 16 - Dummy Data Generator | Sigma Web Development Course - Tutorial #97",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yDnxgIRcnso/sddefault.jpg"
+    },
+    {
+        "videoId": "-g969furGik",
+        "title": "Tailwind CSS in one Video | Sigma Web Development Course - Tutorial #98",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-g969furGik/sddefault.jpg"
+    },
+    {
+        "videoId": "15jN-KKoSCA",
+        "title": "Exercise 16 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #99",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/15jN-KKoSCA/sddefault.jpg"
+    },
+    {
+        "videoId": "eGc35Qj0y4Q",
+        "title": "Exercise 17 - Design This Layout | Sigma Web Development Course - Tutorial #100",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eGc35Qj0y4Q/sddefault.jpg"
+    },
+    {
+        "videoId": "iegMqFnVocA",
+        "title": "X.com (Twitter) Clone using Tailwind CSS | Sigma Web Development Course - Tutorial #101",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iegMqFnVocA/sddefault.jpg"
+    },
+    {
+        "videoId": "KAIGrGEDm78",
+        "title": "Exercise 17 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #102",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KAIGrGEDm78/sddefault.jpg"
+    },
+    {
+        "videoId": "c2A5XJidIDA",
+        "title": "What is Hosting? Where to Host? Which Hosting? | Sigma Web Development Course - Tutorial #103",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c2A5XJidIDA/sddefault.jpg"
+    },
+    {
+        "videoId": "AgjdDXofJZ8",
+        "title": "Hosting an Express App on Ubuntu VPS using Hostinger | Sigma Web Development Course - Tutorial #104",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgjdDXofJZ8/sddefault.jpg"
+    },
+    {
+        "videoId": "nhSZ4LhIii8",
+        "title": "Introduction to React & Why use React? | Sigma Web Development Course - Tutorial #105",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nhSZ4LhIii8/sddefault.jpg"
+    },
+    {
+        "videoId": "S4VH8hddg8c",
+        "title": "Components, Props and JSX in React | Sigma Web Development Course - Tutorial #106",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S4VH8hddg8c/sddefault.jpg"
+    },
+    {
+        "videoId": "zHoWgJD0jw4",
+        "title": "Hooks & State in React | Sigma Web Development Course - Tutorial #107",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zHoWgJD0jw4/sddefault.jpg"
+    },
+    {
+        "videoId": "bio2eP5YXyw",
+        "title": "The useEffect Hook in React | Sigma Web Development Course - Tutorial #108",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bio2eP5YXyw/sddefault.jpg"
+    },
+    {
+        "videoId": "VlSNiL_x4mo",
+        "title": "The useRef Hook in React | Sigma Web Development Course - Tutorial #109",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VlSNiL_x4mo/sddefault.jpg"
+    },
+    {
+        "videoId": "96DGjqlAIxs",
+        "title": "Conditional Rendering  & Rendering Lists in React | Sigma Web Development Course - Tutorial #110",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/96DGjqlAIxs/sddefault.jpg"
+    },
+    {
+        "videoId": "KDpm8h8XzC4",
+        "title": "Exercise 18 - Display the Cards | Sigma Web Development Course - Tutorial #111",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KDpm8h8XzC4/sddefault.jpg"
+    },
+    {
+        "videoId": "cXkwFjBrWfk",
+        "title": "Handling Events in React | Sigma Web Development Course - Tutorial #112",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cXkwFjBrWfk/sddefault.jpg"
+    },
+    {
+        "videoId": "iZdOrqJuPrg",
+        "title": "Exercise 18 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #113",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZdOrqJuPrg/sddefault.jpg"
+    },
+    {
+        "videoId": "SBuZSalHLe0",
+        "title": "TodoList App using React, Tailwind & React Icons | Sigma Web Development Course - Tutorial #114",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SBuZSalHLe0/sddefault.jpg"
+    },
+    {
+        "videoId": "ZP8QyCIUeIA",
+        "title": "React Router: Routing in React | Sigma Web Development Course - Tutorial #115",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZP8QyCIUeIA/sddefault.jpg"
+    },
+    {
+        "videoId": "jIbXtgL0qrg",
+        "title": "The useContext hook in React | Sigma Web Development Course - Tutorial #116",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jIbXtgL0qrg/sddefault.jpg"
+    },
+    {
+        "videoId": "rRiBpNhFgoM",
+        "title": "The useMemo hook in React | Sigma Web Development Course - Tutorial #117",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rRiBpNhFgoM/sddefault.jpg"
+    },
+    {
+        "videoId": "M1ELG5Wgtdo",
+        "title": "The useCallback hook in React | Sigma Web Development Course - Tutorial #118",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/M1ELG5Wgtdo/sddefault.jpg"
+    },
+    {
+        "videoId": "SdzMBWT2CDQ",
+        "title": "Handling Forms + Connecting React to Express Backend | Sigma Web Development Course - Tutorial #119",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SdzMBWT2CDQ/sddefault.jpg"
+    },
+    {
+        "videoId": "J5By-Q4ZhZs",
+        "title": "Learn Redux in One video | Sigma Web Development Course - Tutorial #120",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J5By-Q4ZhZs/sddefault.jpg"
+    },
+    {
+        "videoId": "6XVaVITFOgY",
+        "title": "Introduction to Next.js & File based routing | Sigma Web Development Course - Tutorial #121",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6XVaVITFOgY/sddefault.jpg"
+    },
+    {
+        "videoId": "YuX_R4RGdZw",
+        "title": "Server Components in Next.js | Sigma Web Development Course - Tutorial #122",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YuX_R4RGdZw/sddefault.jpg"
+    },
+    {
+        "videoId": "tHTtOJl7ZlI",
+        "title": "Script, Link & Image components in Next.js | Sigma Web Development Course - Tutorial #123",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tHTtOJl7ZlI/sddefault.jpg"
+    },
+    {
+        "videoId": "0rC-3PyhNnI",
+        "title": "Creating APIs in Next.js | Sigma Web Development Course - Tutorial #124",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0rC-3PyhNnI/sddefault.jpg"
+    },
+    {
+        "videoId": "lvU8fMNVivY",
+        "title": "Server Actions in Next.js | Sigma Web Development Course - Tutorial #125",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lvU8fMNVivY/sddefault.jpg"
+    },
+    {
+        "videoId": "nZ2heJVkawQ",
+        "title": "Middleware in Next.js | Sigma Web Development Course - Tutorial #126",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nZ2heJVkawQ/sddefault.jpg"
+    },
+    {
+        "videoId": "2JnEq3ZmLH0",
+        "title": "Auth.js - Authentication in Next.js | Sigma Web Development Course - Tutorial #127",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2JnEq3ZmLH0/sddefault.jpg"
+    },
+    {
+        "videoId": "D7YuI6vOzdY",
+        "title": "Dynamic Routes in Next.js | Sigma Web Development Course - Tutorial #128",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D7YuI6vOzdY/sddefault.jpg"
+    },
+    {
+        "videoId": "jWi8d3SJYN0",
+        "title": "Layouts in Next.js | Sigma Web Development Course - Tutorial #129",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jWi8d3SJYN0/sddefault.jpg"
+    },
+    {
+        "videoId": "sgNZcK8QIyc",
+        "title": "React Project: Password Manager using React, Tailwind, MongoDB & Express | Sigma WebD Tutorial #130",
+        "description": "description",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sgNZcK8QIyc/sddefault.jpg"
+    }
+]
