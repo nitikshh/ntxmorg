@@ -8,7 +8,22 @@
         "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html",
         {
             "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_2.html",
-            "title": "Introduction to UI Design"
+            "title": "Creating First App"
+        },
+        "techxcelerate\\Learn\\AndroidDev\\AndroidDev_3.html",
+        {
+            "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_3.html",
+            "title": "Java From Basic"
+        },
+        "techxcelerate\\Learn\\AndroidDev\\AndroidDev_4.html",
+        {
+            "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_4.html",
+            "title": "App Designing"
+        },
+        "techxcelerate\\Learn\\AndroidDev\\AndroidDev_5.html",
+        {
+            "path": "techxcelerate\\Learn\\AndroidDev\\AndroidDev_5.html",
+            "title": "Firebase Connection"
         }
     ],
     "Flask Advanced": [
