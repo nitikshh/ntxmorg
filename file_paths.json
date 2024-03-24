@@ -31,6 +31,21 @@
         {
             "path": "techxcelerate\\Learn\\Flask\\Flask_Page_1.html",
             "title": "Introduction to Flask"
+        },
+        "techxcelerate\\Learn\\Flask\\Flask_Page_2.html",
+        {
+            "path": "techxcelerate\\Learn\\Flask\\Flask_Page_2.html",
+            "title": "Basic Flask Methods"
+        },
+        "techxcelerate\\Learn\\Flask\\Flask_Page_3.html",
+        {
+            "path": "techxcelerate\\Learn\\Flask\\Flask_Page_3.html",
+            "title": "File Handling"
+        },
+        "techxcelerate\\Learn\\Flask\\Flask_Project_1.html",
+        {
+            "path": "techxcelerate\\Learn\\Flask\\Flask_Project_1.html",
+            "title": "Project - Video Upload App"
         }
     ],
     "Web Development": [
